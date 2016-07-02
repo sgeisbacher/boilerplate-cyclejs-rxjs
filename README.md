@@ -1,7 +1,7 @@
 # boilerplate-cyclejs-rxjs
 
 this is a boilerplate for **cyclejs** with **rxjs 5** (default is xstream)
-also **live-server** and **watchify** are included
+also **live-server**, **watchify** and **babel** are included
 
 ## usage
 
